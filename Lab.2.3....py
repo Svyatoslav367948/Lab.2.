@@ -1,0 +1,15 @@
+from colorama import init
+from colorama import Back
+init(autoreset=True)
+print(Back.LIGHTWHITE_EX +'          '+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                ')
+print(Back.LIGHTWHITE_EX +'         '+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                 ')
+print(Back.LIGHTWHITE_EX +'        '+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                  ')
+print(Back.LIGHTWHITE_EX +'       '+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                   ')
+print(Back.LIGHTWHITE_EX +'      '+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                    ')
+print(Back.LIGHTWHITE_EX +'     '+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                     ')
+print(Back.LIGHTWHITE_EX +'    '+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                      ')
+print(Back.LIGHTWHITE_EX +'   '+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                       ')
+print(Back.LIGHTWHITE_EX +'  '+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                        ')
+print(Back.LIGHTWHITE_EX +' '+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                         ')
+print(Back.LIGHTWHITE_EX +''+Back.BLACK + ' '+Back.LIGHTWHITE_EX + '                                          ')
+print(Back.BLACK + ''+Back.LIGHTWHITE_EX + '                                           ')
